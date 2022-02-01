@@ -14,4 +14,4 @@ I stream games on [twitch](https://www.twitch.tv/xhmyjae) (and sometimes my home
 
 ### Statistics!
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhmyjae&card_width=400&langs_count=10&hide_border=true&theme=nord" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhmyjae&card_width=400&langs_count=10&hide_border=true&theme=nightowl" />
