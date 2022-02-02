@@ -10,7 +10,6 @@ I stream games on [twitch](https://www.twitch.tv/xhmyjae) (and sometimes my home
 ![C++](https://img.shields.io/badge/C++-D38354?style=flat-square&logo=cplusplus)
 ![Go](https://img.shields.io/badge/Go-D38354?style=flat-square&logo=go)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D38354?style=flat-square&logo=javascript)
-![GitHub](https://img.shields.io/badge/GitHub-D38354?style=flat-square&logo=github)
 
 ### Statistics!
 
