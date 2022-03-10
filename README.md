@@ -1,6 +1,6 @@
 # Yo! I'm Jae :)
 
-I'm a french Computer science student, and i will probably mostly code in c++ or c#.
+I'm a french Computer science student, and i will probably mostly code in c++, c# and go.
 
 I stream games on [twitch](https://www.twitch.tv/xhmyjae) (and sometimes my homeworks), check it out :))
 
