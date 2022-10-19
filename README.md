@@ -1,8 +1,11 @@
 # Yo! I'm Jae :)
 
-Bachelor student at Ynov Campus. I own a passion for computer science.
-My interests include game programming, software design and development and artificial intelligence.
-I'm currently on my second year working towards my Master of Software Engineering (M.Eng.) degree.
+2nd year Bachelor student. I own a passion for computer science.
+On the road of becoming a Machine Learning Engineer I already have some projects up my sleeve.
+My interests include artificial intelligence, game programming, software design and development.
+Working on mastering C#, C++ better get ready to be the next one ! I have basics of Java, Go and Python. Daily using UE4 and Unity, I am often working with other people on all kind of projects.
+
+Studying towards my Master of Artificial Intelligence (M.Sc) degree.
 
 I stream games on [twitch](https://www.twitch.tv/xhmyjae) (and sometimes my homeworks), check it out :))
 
