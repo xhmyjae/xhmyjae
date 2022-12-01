@@ -2,9 +2,9 @@
 
 ### 🐇 Who am I :
 I'm Jae, a 2nd year Bachelor student in Computer science.
-I want to become a machine learning engineer.
-Mastering C# and Python, C++ better get ready to be the next one !
-Affiliate streamer on [twitch](https://www.twitch.tv/xhmyjae), check it out :))
+<br>I want to become a machine learning engineer.
+<br>Mastering C# and Python, C++ better get ready to be the next one !
+<br>Affiliate streamer on [twitch](https://www.twitch.tv/xhmyjae), check it out :))
 
 
 ### 👻 The technologies  :
