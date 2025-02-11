@@ -1,7 +1,7 @@
 # Ayo! I'm Jae :)
 
 ### 🐇 Who am I :
-I'm Jae, a 3rd year Bachelor student in Computer science.
+I'm Jae, a 1st year Master student in AI.
 <br>I want to become a machine learning engineer in Astrophysics.
 <br>Mastering C# and Python, C++ better get ready to be the next one!
 <br>French affiliate streamer on [twitch](https://www.twitch.tv/jaepasdargent), I do coding streams once in a while, check it out :))
